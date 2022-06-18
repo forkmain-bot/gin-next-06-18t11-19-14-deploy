@@ -1,0 +1,8 @@
+configProperties:
+  version: v2
+application:
+  helmValues:
+    - key: gin-next-06-18t11-19-14-frontend.nocalhost.enabled
+      value: true
+    - key: gin-next-06-18t11-19-14-backend.nocalhost.enabled
+      value: true
